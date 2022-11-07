@@ -1,0 +1,56 @@
+{
+    "name": "Boot",
+    "maps": [
+        {
+            "name": "MainBoot",
+            "id": "e252005b-6aa3-45bc-9bd9-3225667d485e",
+            "actions": [
+                {
+                    "name": "BStart",
+                    "type": "Button",
+                    "id": "7d47eecd-13e1-4803-87bb-b28a9ba0cd71",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "406731bd-989f-4147-bb7f-31ae46a78077",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BStart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8668cac7-fbb9-4072-9a57-123c90f563e8",
+                    "path": "<HID::Љ Twin USB Joystick>/button10",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BStart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "24c2cea1-ab9d-4eea-b39c-fd9658d41f44",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BStart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

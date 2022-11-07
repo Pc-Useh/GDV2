@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Exit
+  - Friend
+  - Play
+  - Bullet
+  - Super
   layers:
   - Default
   - TransparentFX
