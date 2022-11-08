@@ -220,6 +220,61 @@
                     "isPartOfComposite": true
                 },
                 {
+                    "name": "UniversalStick",
+                    "id": "5d33bea8-6148-4c76-8201-bd4f14a22da6",
+                    "path": "3DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "4c829b27-db81-4a38-82e7-061d36786d2b",
+                    "path": "<Gamepad>/leftStick/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "4a39897c-393a-419b-8c27-412e97e79575",
+                    "path": "<Gamepad>/leftStick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "2c6de92f-d6f3-4337-b9f4-1533f10b5bf6",
+                    "path": "<Gamepad>/leftStick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "9f850c0e-42c2-4a30-89cb-f5a3daec14c7",
+                    "path": "<Gamepad>/leftStick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
                     "name": "",
                     "id": "bfa4b83d-3a90-4b2e-829e-cef30f2034d6",
                     "path": "<Keyboard>/a",
@@ -234,6 +289,17 @@
                     "name": "",
                     "id": "a84e3746-5f5c-4fd8-8757-0c33d83af76c",
                     "path": "<HID::Љ Twin USB Joystick>/button8",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ede50206-5994-45bc-83b2-4e054ff9857f",
+                    "path": "<Gamepad>/rightTrigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -265,6 +331,17 @@
                 },
                 {
                     "name": "",
+                    "id": "95c4352d-4cb5-46da-85dc-544b03c54b5e",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SShoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "fcc414cc-a932-4e8a-a87a-41cae32c45ea",
                     "path": "<HID::Љ Twin USB Joystick>/button10",
                     "interactions": "",
@@ -278,6 +355,17 @@
                     "name": "",
                     "id": "b5ef54c3-157b-49c8-9529-cee24f2ddd13",
                     "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Again",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "80eee720-2e20-40dd-914b-8f65cc329d4f",
+                    "path": "<Gamepad>/start",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
